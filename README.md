@@ -73,5 +73,12 @@ The plugin is the polished, marketplace-validated Claude Code adapter. This core
 the other-harness adapters. They keep the **same protocol, durability rubric, and double-validation** so a
 fix you'd get in Claude Code is the fix you'd get anywhere. `adapters/claude-code/` is the reference adapter.
 
+## Sister tools
+Part of the [waitdeadai](https://github.com/waitdeadai) family of Claude Code governance hooks —
+[`searchoclock`](https://github.com/waitdeadai/searchoclock) (the Claude Code plugin),
+[`time-anchor`](https://github.com/waitdeadai/time-anchor),
+[`no-sycophancy`](https://github.com/waitdeadai/no-sycophancy),
+[`llm-dark-patterns`](https://github.com/waitdeadai/llm-dark-patterns). More at [waitdead.com](https://waitdead.com).
+
 ## License
-Apache-2.0. See [LICENSE](LICENSE). Part of the [waitdeadai](https://github.com/waitdeadai) family.
+Apache-2.0. See [LICENSE](LICENSE).
